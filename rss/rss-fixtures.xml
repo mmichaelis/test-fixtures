@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>Test-Fixtures: Several RSS Items</title>
+    <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
+    <description>Some RSS Example Items meant for testing purpose.</description>
+    <pubDate>Thu, 10 Feb 2022 13:39:37 +0000</pubDate>
+    <item>
+      <title>Special Character Title: 💩/!"§$%&amp;/()=?€&lt;test/&gt;\</title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Special Character Description: 💩/!"§$%&amp;/()=?€&lt;test/&gt;
+      </description>
+      <pubDate>Thu, 10 Feb 2022 13:39:37 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</guid>
+    </item>
+  </channel>
+</rss>
