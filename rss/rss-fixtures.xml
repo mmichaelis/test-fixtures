@@ -24,13 +24,35 @@
       <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#2</guid>
     </item>
     <item>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Entry without a title.
+      </description>
+      <pubDate>Thu, 10 Feb 2022 15:09:37 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#3</guid>
+    </item>
+    <item>
       <title>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et e</title>
       <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
       <description>
       An RSS Item with a 500 character title.
       </description>
       <pubDate>Thu, 10 Feb 2022 15:10:37 +0000</pubDate>
-      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#3</guid>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#4</guid>
+    </item>
+    <item>
+      <title>No Description</title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <pubDate>Thu, 10 Feb 2022 15:21:37 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#5</guid>
+    </item>
+    <item>
+      <title>No Publication Date</title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Empty Title Entry
+      </description>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#6</guid>
     </item>
   </channel>
 </rss>
