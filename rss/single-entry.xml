@@ -1,15 +1,17 @@
 <?xml version="1.0"?>
-<rss version="2.0">
+<rss version="2.0" xmlns="https://raw.githubusercontent.com/jthelin/rss2schema/master/schema/rss-2_0.xsd">
   <channel>
     <title>Test-Fixtures: Single Entry Feed</title>
-    <link>http://example.com/</link>
+    <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
     <description>A sample RSS feed with only one entry.</description>
     <item>
       <title>Test-Fixtures: The Only Entry</title>
-      <link>https://github.com/mmichaelis/test-fixtures</link>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/single-entry.xml</link>
       <description>
       This is only one single entry.
       </description>
+      <pubDate>Thu, 10 Feb 2022 14:22:01 CET</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/94eee49457b67bc86409ecea4bf6729c243af40c/rss/single-entry.xml</guid>
     </item>
   </channel>
 </rss>
