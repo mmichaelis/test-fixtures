@@ -4,6 +4,7 @@
     <title>Test-Fixtures: Single Entry Feed</title>
     <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
     <description>A sample RSS feed with only one entry.</description>
+    <pubDate>Thu, 10 Feb 2022 14:22:01 CET</pubDate>
     <item>
       <title>Test-Fixtures: The Only Entry</title>
       <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/single-entry.xml</link>
