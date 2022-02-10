@@ -72,5 +72,50 @@
       <pubDate>Thu, 10 Feb 2022 15:35:37 +0000</pubDate>
       <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#8</guid>
     </item>
+    <item>
+      <title>.</title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Character '.' (dot) in title, sometimes confusing file-systems.
+      </description>
+      <pubDate>Thu, 10 Feb 2022 15:48:37 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#9</guid>
+    </item>
+    <item>
+      <title>..</title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Characters '..' (dot) in title, sometimes confusing file-systems.
+      </description>
+      <pubDate>Thu, 10 Feb 2022 15:48:38 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#10</guid>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Space Character in Title.
+      </description>
+      <pubDate>Thu, 10 Feb 2022 15:48:39 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#11</guid>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Tab Character in Title.
+      </description>
+      <pubDate>Thu, 10 Feb 2022 15:48:40 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#12</guid>
+    </item>
+    <item>
+      <title> </title>
+      <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml</link>
+      <description>
+      Non-Breakable Space in Title.
+      </description>
+      <pubDate>Thu, 10 Feb 2022 15:48:41 +0000</pubDate>
+      <guid>https://github.com/mmichaelis/test-fixtures/blob/main/rss/rss-fixtures.xml#13</guid>
+    </item>
   </channel>
 </rss>
