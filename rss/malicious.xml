@@ -1,9 +1,12 @@
 <?xml version="1.0"?>
+<!DOCTYPE test [
+<!ENTITY cool "This is cool!">
+]>
 <rss version="2.0">
   <channel>
     <title>Test-Fixtures: Malicious Feed</title>
     <image>
-      <url>file:///.</url>
+      <url>file:///dev/z-e-r-o</url>
       <title>Malicious</title>
       <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
     </image>
@@ -14,7 +17,7 @@
       <title>Test-Fixtures: Evil Image</title>
       <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/single-entry.xml</link>
       <description>
-        &lt;img src=&quot;file:///.&quot; alt=&quot;Read this!&quot;/&gt;
+        &cool;
       </description>
       <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
       <guid>https://github.com/mmichaelis/test-fixtures/blob/94eee49457b67bc86409ecea4bf6729c243af40c/rss/single-entry.xml</guid>
