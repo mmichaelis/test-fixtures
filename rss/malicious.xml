@@ -2,6 +2,11 @@
 <rss version="2.0">
   <channel>
     <title>Test-Fixtures: Malicious Feed</title>
+      <image>
+      <url>file:///.</url>
+      <title>Malicious</title>
+      <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
+    </image>
     <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
     <description>A sample RSS feed with possibly malicious entries.</description>
     <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
@@ -9,7 +14,7 @@
       <title>Test-Fixtures: Evil Image</title>
       <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/single-entry.xml</link>
       <description>
-        &lt;img src=&quot;file:///etc/passwd&quot; alt=&quot;Read this!&quot;/&gt;
+        &lt;img src=&quot;file:///.&quot; alt=&quot;Read this!&quot;/&gt;
       </description>
       <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
       <guid>https://github.com/mmichaelis/test-fixtures/blob/94eee49457b67bc86409ecea4bf6729c243af40c/rss/single-entry.xml</guid>
