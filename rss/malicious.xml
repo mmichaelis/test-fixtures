@@ -13,10 +13,7 @@
       <title>Test-Fixtures: Evil Image</title>
       <link>https://github.com/mmichaelis/test-fixtures/blob/main/rss/single-entry.xml</link>
       <description>
-<![CDATA[
-Malicious image inside RSS
-<img src="file:///etc/passwd" alt="Read this!">         
-]> 
+        &lt;img src=&quot;file:///etc/passwd&quot; alt=&quot;Read this!&quot;/&gt;
       </description>
       <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
       <guid>https://github.com/mmichaelis/test-fixtures/blob/94eee49457b67bc86409ecea4bf6729c243af40c/rss/single-entry.xml</guid>
