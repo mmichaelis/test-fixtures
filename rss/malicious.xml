@@ -2,10 +2,6 @@
 <rss version="2.0">
   <channel>
     <title>Test-Fixtures: Malicious Feed</title>
-    <image>
-      <url>file:///etc/passwd</url>
-      <title>Passwords?</title>
-    </image>
     <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
     <description>A sample RSS feed with possibly malicious entries.</description>
     <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
