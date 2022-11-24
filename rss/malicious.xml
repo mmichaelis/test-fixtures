@@ -2,7 +2,7 @@
 <rss version="2.0">
   <channel>
     <title>Test-Fixtures: Malicious Feed</title>
-      <image>
+    <image>
       <url>file:///.</url>
       <title>Malicious</title>
       <link>https://github.com/mmichaelis/test-fixtures/tree/main/rss</link>
